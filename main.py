@@ -10,7 +10,6 @@ def main():
     Code Your Program here
     ########################################
     """
-
     print(*result)
     ########################################
     # Do not delete the return statement
